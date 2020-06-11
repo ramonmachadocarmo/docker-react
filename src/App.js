@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://prmord.io"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Conheça a Prmord.io
+          Learn React com a prmordio
         </a>
       </header>
     </div>
